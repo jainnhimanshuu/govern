@@ -127,7 +127,7 @@ const Sidebar = ({ openClass }) => {
                                                         <ul className={isActive.key == 6 ? "sub-menu d-block" : "sub-menu d-none"}>
                                                             <li><Link href="/register">Register</Link></li>
                                                             <li><Link href="/login">Login</Link></li>
-                                                            <li><Link href="/coming-soon">Coming soon</Link></li>
+                                                            {/* <li><Link href="/coming-soon">Coming soon</Link></li> */}
                                                             <li><Link href="/404">Error 404</Link></li>
                                                         </ul>
                                                     </li>

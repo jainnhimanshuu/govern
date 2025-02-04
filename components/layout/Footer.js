@@ -42,12 +42,7 @@ const Footer = () => {
                   <li>
                     <Link href="/career">Careers</Link>
                   </li>
-                  <li>
-                    <Link href="#">Press &amp; Media</Link>
-                  </li>
-                  <li>
-                    <Link href="#">Advertising</Link>
-                  </li>
+                  
                 </ul>
               </div>
               <div className="col-lg-3 width-16 mb-30">
